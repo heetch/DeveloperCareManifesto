@@ -1,6 +1,6 @@
 # The Developer Care Manifesto
 
-This repository contains the text of the ["Developer Care Manifesto"](https://github.com/heetch/DeveloperCareManifesto/blob/master/Manifesto.md), as set out by the ["Developer Care"](https://eng.heetch.com/developer-care-3e22a4d7ff54) blog post on [https://eng.heetch.com](https://eng.heetch.com).
+This repository contains the text of the ["Developer Care Manifesto"](https://github.com/heetch/DeveloperCareManifesto/blob/master/Manifesto.md), as set out by the ["Developer Care"](https://link.medium.com/SzBR6jkD40) blog post on [https://eng.heetch.com](https://eng.heetch.com).
 
 The main purpose of reproducing it here is to have a single, linkable point of reference for the manifesto itself.
 
